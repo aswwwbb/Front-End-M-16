@@ -43,7 +43,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 44px 0 60px 0;
+    padding: 52px 0 63px 0;
 }
 .container header .image img {
     width: 200px;
@@ -70,12 +70,12 @@ body {
 }
 .container .landing .title {    
     max-width: 520px;
-    transform: translateY(5px);
+    transform: translateY(10px);    
 }
 .container .landing .title h1 {
     font-size: 38px;
     font-family: 'Poppins', sans-serif;
-    margin-bottom: 27px;
+    margin-bottom: 31px;
     letter-spacing: 1.3px;
     word-spacing: -2.9px;
     line-height: 1.48;
@@ -102,7 +102,7 @@ body {
     width: 693px;
     height: 462px;
 }
-.container .info {       margin-top: 205px;}
+.container .info {      margin-top: 210px;}
 .container .info .box {
     box-shadow: 0px 0px 13px #0000001c;
     display: flex;
@@ -399,9 +399,9 @@ footer .icone .copy-right {
 }
 @media (min-width: 768px) {
     .bg{
-        top: -50px;
+        top: -38px;
         left: 7px;
-        width: 100%;
+        width: 100%;    
     }
     .bg .bg-mobile{
         display: none;
