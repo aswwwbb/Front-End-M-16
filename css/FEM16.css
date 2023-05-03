@@ -100,7 +100,7 @@ body {
 }
 .container .landing .image-right img {
     width: 693px;
-    height: 462px;
+    height: 470px;
 }
 .container .info {      margin-top: 210px;}
 .container .info .box {
@@ -399,9 +399,9 @@ footer .icone .copy-right {
 }
 @media (min-width: 768px) {
     .bg{
-        top: -38px;
+        top: -31px;
         left: 7px;
-        width: 100%;    
+        width: 100%;
     }
     .bg .bg-mobile{
         display: none;
